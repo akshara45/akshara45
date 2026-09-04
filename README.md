@@ -1,7 +1,6 @@
 # Hi, I'm Akshara 👋
 
-### CSE (Data Science) Student | Developer | Accessibility Enthusiast
-
+### CSE (Data Science) Student | Data Science & Software Development
 I'm a Computer Science student interested in Data Science, Machine Learning, software development, and building practical technology that solves real-world problems.
 
 ---
