@@ -29,7 +29,7 @@ React • JavaScript • Vite • Chrome Extension • Manifest V3 • Chrome St
 
 ### RIMS — Rental Item Management System
 
-A Java-based rental management system with separate Admin and Customer functionality for managing equipment, bookings, payments, and returns.
+A Java-based rental management system with separate Admin and Customer workflows. Customers can check equipment availability, place bookings, make simulated payments, and view rental history; admins manage equipment, bookings, returns, and late fees.
 
 ---
 
@@ -116,14 +116,6 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 
 ## GitHub Profile
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshara45&theme=github_dark" alt="GitHub statistics for akshara45" height="165">
-  <img src="https://img.shields.io/github/followers/akshara45?label=Followers&style=flat&logo=github&color=161b22" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshara45&query=%24.public_repos&label=Repositories&logo=github&color=161b22" alt="Public repositories">
-</p>
-
 ### Contribution Activity
 
 <p align="center">
@@ -134,12 +126,6 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshara45&theme=github_dark" alt="Most used languages in akshara45 repositories">
-</p>
-
-### Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshara45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for akshara45">
 </p>
 
 ### Tech Stack
