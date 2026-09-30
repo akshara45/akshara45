@@ -119,7 +119,7 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshara45&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics for akshara45" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshara45&theme=github_dark" alt="GitHub statistics for akshara45" height="165">
   <img src="https://img.shields.io/github/followers/akshara45?label=Followers&style=flat&logo=github&color=161b22" alt="GitHub followers">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshara45&query=%24.public_repos&label=Repositories&logo=github&color=161b22" alt="Public repositories">
 </p>
@@ -127,13 +127,13 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara45&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph for akshara45">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshara45&theme=github_dark" alt="Contribution activity graph for akshara45">
 </p>
 
 ### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshara45&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages in akshara45 repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshara45&theme=github_dark" alt="Most used languages in akshara45 repositories">
 </p>
 
 ### Contribution Streak
