@@ -5,7 +5,7 @@ I'm a Computer Science student interested in Data Science, Machine Learning, sof
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### AccessAdapt — Adaptive Web Accessibility Extension
 
@@ -29,7 +29,7 @@ React • JavaScript • Vite • Chrome Extension • Manifest V3 • Chrome St
 
 ---
 
-## 💻 Other Project
+## Other Project
 
 ### RIMS — Item Rental Management System
 
@@ -60,7 +60,7 @@ React • Vite • MySQL • Git • GitHub • Chrome Extensions
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Data Science & Machine Learning
 - Advanced Python
@@ -70,7 +70,7 @@ React • Vite • MySQL • Git • GitHub • Chrome Extensions
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech in Computer Science & Engineering — Data Science**
 
@@ -78,7 +78,7 @@ Currently pursuing my undergraduate degree with a focus on programming, data sci
 
 ---
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 - IBM SkillsBuild — Data Fundamentals
 - Forage — Data Analytics
@@ -88,7 +88,7 @@ Currently pursuing my undergraduate degree with a focus on programming, data sci
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 I'm working toward building strong skills in:
 
@@ -102,7 +102,7 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 **LinkedIn:** Connect with me through the social links on my profile.
 
