@@ -109,3 +109,9 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara45&theme=github-compact&hide_border=true" />
+</p>
