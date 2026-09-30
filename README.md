@@ -1,11 +1,12 @@
 # Hi, I'm Akshara 
 
 ### CSE (Data Science) Student | Data Science & Software Development
+
 I'm a Computer Science student interested in Data Science, Machine Learning, software development, and building practical technology that solves real-world problems.
 
 ---
 
-##  Featured Project
+##🚀 Featured Projects
 
 ### AccessAdapt — Adaptive Web Accessibility Extension
 
@@ -27,24 +28,29 @@ It analyzes webpages for accessibility issues and provides personalized recommen
 **Technologies:**  
 React • JavaScript • Vite • Chrome Extension • Manifest V3 • Chrome Storage API
 
-### RIMS — Rental Item Management System
-
-A Java-based rental management system with separate Admin and Customer workflows. Customers can check equipment availability, place bookings, make simulated payments, and view rental history; admins manage equipment, bookings, returns, and late fees.
-
 ---
-
-## Other Project
 
 ### RIMS — Item Rental Management System
 
-A Java-based system for managing items, customers, rentals, and rental operations.
+RIMS is a Java-based web application for managing equipment rentals through separate **Admin and Customer workflows**. Customers can browse equipment, check availability, select rental dates, place bookings, make simulated payments, and track rental history. Administrators can manage equipment, customers, bookings, returns, payments, and late fees.
+
+**Key features:**
+- Customer registration and login
+- Admin dashboard and management
+- Equipment management and availability
+- Date-based rental booking
+- Rental price calculation
+- Simulated payment workflow
+- Rental history and booking management
+- Equipment return management
+- Automatic late-fee calculation
 
 **Technologies:**  
-Java • Object-Oriented Programming • Database Management
+Java • JDBC • HTML • CSS • JavaScript • SQLite • Git • GitHub
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Languages
 
@@ -64,7 +70,7 @@ React • Vite • MySQL • Git • GitHub • Chrome Extensions
 
 ---
 
-##  Currently Learning
+## 📚 Currently Learning
 
 - Data Science & Machine Learning
 - Advanced Python
@@ -74,7 +80,7 @@ React • Vite • MySQL • Git • GitHub • Chrome Extensions
 
 ---
 
-##  Education
+## 🎓 Education
 
 **B.Tech in Computer Science & Engineering — Data Science**
 
@@ -82,7 +88,7 @@ Currently pursuing my undergraduate degree with a focus on programming, data sci
 
 ---
 
-## Certifications & Learning
+##  Certifications & Learning
 
 - IBM SkillsBuild — Data Fundamentals
 - Forage — Data Analytics
@@ -114,7 +120,9 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 
 ⭐ Thanks for visiting my profile!
 
-## GitHub Profile
+---
+
+# 📊 GitHub Profile
 
 ### Contribution Activity
 
