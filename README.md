@@ -27,6 +27,10 @@ It analyzes webpages for accessibility issues and provides personalized recommen
 **Technologies:**  
 React • JavaScript • Vite • Chrome Extension • Manifest V3 • Chrome Storage API
 
+### RIMS — Rental Item Management System
+
+A Java-based rental management system with separate Admin and Customer functionality for managing equipment, bookings, payments, and returns.
+
 ---
 
 ## Other Project
@@ -109,3 +113,37 @@ I'm interested in internships, collaborative projects, and opportunities to buil
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## GitHub Profile
+
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshara45&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics for akshara45" height="165">
+  <img src="https://img.shields.io/github/followers/akshara45?label=Followers&style=flat&logo=github&color=161b22" alt="GitHub followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshara45&query=%24.public_repos&label=Repositories&logo=github&color=161b22" alt="Public repositories">
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara45&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph for akshara45">
+</p>
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshara45&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages in akshara45 repositories">
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akshara45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for akshara45">
+</p>
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,react,vite,mysql,git,github,html,css,sqlite,postgresql" alt="Technologies used in my profile and repositories">
+</p>
